@@ -12,19 +12,19 @@
   <p>Original Image: 1.9MB</p>
 
    <img src="coral-reef-low.jpg" alt="low quality jpg" />
-    <p>Low quality (%). File size: </p>
+    <p>Low quality (10%). File size:298.5k </p>
 
    <img src="coral-reef-medium.jpg" alt="medium quality jpg" />
-    <p>Medium quality (%). File size: </p>
+    <p>Medium quality (30%). File size:47.22k </p>
 
    <img src="coral-reef-high.jpg" alt="high quality jpg" />
-    <p>High quality (%). File size: </p>
+    <p>High quality (60%). File size:91.54k </p>
 
    <img src="coral-reef-very-high.jpg" alt="very high quality jpg" />
-    <p>Very quality (%). File size: </p>
+    <p>Very quality (80%). File size:153.8k </p>
 
 <img src="coral-reef-maximum.jpg" alt="maximum quality jpg" />
-    <p>Maximum quality (%). File size: </p>
+    <p>Maximum quality (100%). File size:299.6k </p>
 
 
   </body>
